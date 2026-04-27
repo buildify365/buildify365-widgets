@@ -20,6 +20,7 @@ BuildifyTOC.render('minecraft-buildup', {
     { num:'03', title:'마인크래프트 서버 도메인 연결 방법 (고정 IP + 무료 도메인) | 마크빌드업 EP.03', sub:'고정 IP + 무료 도메인', url:'https://buildify365.tistory.com/83' },
     { num:'04', title:'마인크래프트 Paper 서버 구축 + 플러그인 설치 방법 (2026) | 마크빌드업 EP.04', sub:'2026 · Paper 서버', url:'https://buildify365.tistory.com/84' },
     { num:'05', title:'마인크래프트 플러그인 만들기 – 환경 세팅부터 배포까지 (IntelliJ + Paper API) | 마크빌드업 EP.05', sub:'IntelliJ + Paper API', url:'https://buildify365.tistory.com/85' },
-    { num:'06', title:'Paper API 핵심 개념 + 미니게임 플러그인 실습 | 마크빌드업 EP.06', sub:'게임개발', url:'https://buildify365.tistory.com/89' }
+    { num:'06', title:'Paper API 핵심 개념 + 미니게임 플러그인 실습 | 마크빌드업 EP.06', sub:'게임개발', url:'https://buildify365.tistory.com/89' },
+    { num:'07', title:'서버 실행 스크립트 만들기 (Windows, Ubuntu)', sub:'운영', url:'https://buildify365.tistory.com/113' }
   ]
 });
