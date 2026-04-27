@@ -21,6 +21,9 @@ BuildifyTOC.render('minecraft-buildup', {
     { num:'04', title:'마인크래프트 Paper 서버 구축 + 플러그인 설치 방법 (2026) | 마크빌드업 EP.04', sub:'2026 · Paper 서버', url:'https://buildify365.tistory.com/84' },
     { num:'05', title:'마인크래프트 플러그인 만들기 – 환경 세팅부터 배포까지 (IntelliJ + Paper API) | 마크빌드업 EP.05', sub:'IntelliJ + Paper API', url:'https://buildify365.tistory.com/85' },
     { num:'06', title:'Paper API 핵심 개념 + 미니게임 플러그인 실습 | 마크빌드업 EP.06', sub:'게임개발', url:'https://buildify365.tistory.com/89' },
-    { num:'07', title:'서버 실행 스크립트 만들기 (Windows, Ubuntu)', sub:'운영', url:'https://buildify365.tistory.com/113' }
+    { num:'07', title:'서버 실행 스크립트 만들기 (Windows, Ubuntu)', sub:'운영', url:'https://buildify365.tistory.com/113' },
+    { num:'08', title:'server.properties로 서버 설정하기 26.1+', sub:'운영', url:'https://buildify365.tistory.com/114' },
+    { num:'09', title:'화이트리스트로 원하는 사람만 접속하게 하기 + OP 설정', sub:'운영', url:'https://buildify365.tistory.com/115' },
+    { num:'10', title:'[26.1+, 1.21이하] 마인크래프트 월드 백업하고 옮기기 (PC ↔ GCP)', sub:'운영', url:'https://buildify365.tistory.com/116' },
   ]
 });
